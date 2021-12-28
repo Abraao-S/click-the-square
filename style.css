@@ -1,0 +1,14 @@
+section {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div {
+    
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin: 1px 1px;
+}
